@@ -1,17 +1,14 @@
-import java.util.ArrayList;
-import java.util.Scanner;
-
 public class main {
+     public static void main(String[] args) {
 
-    public static void main(String[] args) {
+//SchoolServiceImpl schoolservice=new SchoolServiceImpl();
+//schoolservice.add();
+//schoolservice.remove();
+//schoolservice.addStudent();
+//schoolservice.removeStudent();
+//schoolservice.addTeacher();
+//schoolservice.removeTeacher();
 
-     Student student=new Student();
-     student.print();
-
-        System.out.println("-----------------------");
-        student.print("islam");
-        System.out.println("-----------------------");
-     student.print(1,"islam");
 
 
 

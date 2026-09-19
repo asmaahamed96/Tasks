@@ -1,4 +1,4 @@
-public class StudentServiceImpl implements SchoolService,StudentService,TeacherService{
+public class SchoolServiceImpl implements SchoolService,StudentService,TeacherService{
   @Override
   public void add(){
       System.out.println("add");

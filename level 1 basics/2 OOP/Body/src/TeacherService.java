@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
 public interface TeacherService {
+    void addTeacher();
+    void removeTeacher();
 }

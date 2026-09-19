@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
-
 public interface StudentService {
+
+
+    void addStudent();
+    void removeStudent();
+
 }
