@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Form</title>
+</head>
+<body>
+
+    <h2>Student Information</h2>
+
+    <form action="/Task1/Task2/DataFormResult.jsp" method="post">
+
+        Full Name:
+        <input type="text" name="fullName">
+        <br><br>
+
+        Password:
+        <input type="text" name="password">
+        <br><br>
+
+        Age:
+        <input type="text" name="age">
+        <br><br>
+
+        Address (Radio):
+        <input type="radio" name="address" value="Cairo"> Cairo
+        <input type="radio" name="address" value="Alex"> Alex
+        <input type="radio" name="address" value="Menofia"> Menofia
+        <br><br>
+
+        Address (Select):
+        <select name="selectedAddress">
+            <option value="Cairo">Cairo</option>
+            <option value="Alex">Alex</option>
+            <option value="Menofia">Menofia</option>
+        </select>
+        <br><br>
+
+        <input type="submit" value="Submit">
+
+    </form>
+
+</body>
+</html>
