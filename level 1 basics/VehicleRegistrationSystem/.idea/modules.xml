@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Solly.iml" filepath="$PROJECT_DIR$/Solly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VehicleRegistrationSystem.iml" filepath="$PROJECT_DIR$/VehicleRegistrationSystem.iml" />
     </modules>
   </component>
 </project>
